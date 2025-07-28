@@ -6,7 +6,7 @@ A visually appealing **Netflix Landing Page Clone** built using **HTML** and **C
 
 - 🎨 Clean and responsive UI  
 - 📱 Mobile-friendly design  
-- 💻 Pure HTML & CSS (No JavaScript)  
+- 💻 HTML & CSS  
 - 🌐 Replicates Netflix’s home page layout and design  
 - 📷 Background images, overlay, and login section design  
 
