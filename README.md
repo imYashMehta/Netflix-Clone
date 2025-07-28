@@ -2,6 +2,9 @@
 
 A visually appealing **Netflix Landing Page Clone** built using **HTML** and **CSS**. This project replicates the front-end interface of Netflix's homepage, showcasing responsive design, modern UI, and clean code practices.
 
+## 🌐 URL
+   https://imyashmehta.github.io/Netflix-Clone/
+
 ## 🚀 Features
 
 - 🎨 Clean and responsive UI  
